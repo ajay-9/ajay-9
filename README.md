@@ -3,7 +3,7 @@
 
 - ✨ **Creating bugs since 2022**
   
-- 💬 Ask me about **React.js, Node.js, MongoDB, Java, JavaScript**
+- 💬 Ask me about **React.js, ASP.NET, Node.js, MongoDB, C#, JavaScript**
 
 - 📫 How to reach me **d97ajay@gmail.com**
 
