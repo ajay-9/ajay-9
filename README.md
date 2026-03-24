@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ajay Dhillon</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 - ✨ **Creating bugs since 2022**
   
-- 💬 Ask me about **React.js, ASP.NET, Node.js, MongoDB, C#, JavaScript**
+- 💬 Ask me about **C#, ASP.NET, Java, Spring Boot, Node.js, MongoDB, React.js, JavaScript**
 
-- 📫 How to reach me **d97ajay@gmail.com**
+- 📫 How to reach me **ajay.d22699@gmail.com**
 
 - ⚡ Fun fact **Debugging code might be my day job, but I also enjoy debugging life challenges with creativity and a smile!**
 
