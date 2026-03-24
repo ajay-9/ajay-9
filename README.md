@@ -3,7 +3,7 @@
 
 - ✨ **Creating bugs since 2022**
   
-- 💬 Ask me about **C#, ASP.NET, Java, Spring Boot, Node.js, MongoDB, React.js, JavaScript**
+- 💬 Ask me about **C#, .NET, Java, Spring Boot, Node.js, MongoDB, React.js, JavaScript**
 
 - 📫 How to reach me **ajay.d22699@gmail.com**
 
@@ -32,6 +32,9 @@
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+  <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+
 <!--   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /> -->
 </p>
 
