@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajay Dhillon</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- ✨ **Creating bugs since 2022**
-  
 - 💬 Ask me about **C#, .NET, Java, Spring Boot, Node.js, MongoDB, React.js, JavaScript**
 
 - 📫 How to reach me **ajay.d22699@gmail.com**
